@@ -1,0 +1,23 @@
+.card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.event {
+  border-left: 6px solid blue;
+}
+
+.result {
+  border-left: 6px solid green;
+}
+
+.placement {
+  border-left: 6px solid orange;
+}
+
+small {
+  color: gray;
+}
